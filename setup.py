@@ -39,5 +39,5 @@ setup(
 
     keywords='spotinst spot instances aws ec2 cloud infrastructure development elastigroup',
     packages=["spotinst"],
-    install_requires=['requests']
+    requires=['requests']
 )
